@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4" />
 </a>
 <a href="https://github.com/julia-baptista/julia-baptista/edit/main">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Brenojbs&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=julia-baptista&show_icons=true" />
 </a>
 
 
